@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UnEvolvedGod
+- 👋 Hi, I’m Edgar Quinones
 - 👀 I’m interested in making games in Java
-- 🌱 I’m currently working towards a bachelor's degree in Computer Science
+- 🌱 I’m currently working towards a bachelor's degree in Information Technology
 - 💞️ I’m looking to collaborate on many types of projects 
-- 📫 How to reach me warriorsflame1215@gmail.com
+- 📫 How to reach me EdgarQ1215@gmail.com
