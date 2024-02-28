@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edgar Quinones
-- 👀 I’m interested in making games in Java
-- 🌱 I’m currently working towards a bachelor's degree in Information Technology
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently working towards a Bachelor's Degree in Information Technology
 - 💞️ I’m looking to collaborate on many types of projects 
 - 📫 How to reach me EdgarQ1215@gmail.com
