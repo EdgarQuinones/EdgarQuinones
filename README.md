@@ -1,5 +1,5 @@
 # Hello, I'm Edgar Quinones
-<a href="[https://linkedin.com](https://www.linkedin.com/in/edgar-quinones/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/john-doe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi there! I'm a passionate and curious IT student currently in my junior year, working towards my Bachelor's degree. I have a strong interest in cybersecurity, where I love to explore and tackle new challenges. Through my projects, you'll see my journey of learning and applying various cybersecurity concepts and techniques. I'm always on the lookout for new learning opportunities and collaborations to broaden my skills and make the digital world a safer place. Welcome to my GitHub, where I share my adventures in cybersecurity! I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
