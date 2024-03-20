@@ -11,15 +11,15 @@ Hi there! I'm a passionate and curious IT student currently in my junior year, w
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Example1-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-nmap-8A2BE2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Example2-8A2BE2?style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Example3-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
