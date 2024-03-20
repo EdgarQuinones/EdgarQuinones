@@ -6,11 +6,7 @@ Hi there! I'm a passionate and curious IT student currently in my junior year, w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Configuration and Management          | <a href="https://github.com/EdgarQuinones/MyHomeLabJourney">Home-Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Linux, Networking and Leadership              | <a href="https://google.com">NCAE Red vs Blue Competition</a>|
 
 ## Tools
 
