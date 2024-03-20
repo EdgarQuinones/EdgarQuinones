@@ -10,7 +10,7 @@ I led a team of 8 to participate in a Red vs Blue Cyber Security Competition
 - **Key Features:** 
   - 6+ Machines
   - 7 Hour Competition 
-- **[NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md)**
+- **[Respository](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md)**
 
 ![Project 1 Screenshot](https://ncaecybergames.org/_app/immutable/assets/ncae_cybergames_logo.6bd1b659.png)
 
