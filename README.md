@@ -1,32 +1,20 @@
 # Edgar Quinones's Projects 
-Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity as that is what I enjoy doing most. Below you will see the various projects, competitions, and resources I have contributed to. For more information, contact me on my [LinkedIn!](https://www.linkedin.com/in/edgar-quinones/)
-# Projects
+Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity as that is what I enjoy doing most. Below you will see the various projects, competitions I have created and participated in.
+# My Projects and Competitions
 
-# Competitions 
-## NCAE Cyber Games, Spring 2024 - Team Captain
+Welcome to my collection of projects and competitions. Here, you'll find an overview of my work and accomplishments. Feel free to explore the links below to see more detailed information on each topic.
 
-### Overview
-As the Team Captain of an 8-member squad at the University of North Florida, I led our participation in the Red vs. Blue Cyber Security Competition. This challenging event pitted us against live adversaries, testing our skills in real-time defense and incident response.
+## Projects
 
-### Technologies Used
-- **Linux**: Our primary platform for operations, offering a robust environment for deploying security tools and strategies.
-- **Networking Tools**: Utilized for monitoring and defending our network infrastructure.
-- **Security Applications**: Including firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS) to detect and counter threats.
+- [Project 1](https://github.com/[YourUsername]/[YourRepository]#project-1): Brief description of Project 1.
+- [Project 2](https://github.com/[YourUsername]/[YourRepository]#project-2): Brief description of Project 2.
+- [Project 3](https://github.com/[YourUsername]/[YourRepository]#project-3): Brief description of Project 3.
 
-### Key Features of Our Participation
-- **Team Management**: Effectively coordinated the efforts of 8 team members, each specializing in different areas of cybersecurity.
-- **Strategic Planning**: Developed and executed a comprehensive defense strategy that leveraged each team member's strengths.
-- **Incident Response**: Led the team in responding to and mitigating a variety of simulated cyber attacks.
-- **Continuous Learning**: Adapted to new threats and techniques in real-time, demonstrating the importance of agility in cybersecurity.
+## Competitions
 
-### Achievements
-- Successfully secured multiple machines against continuous attacks over a 7-hour competition period.
-- Fostered a collaborative and efficient team environment that allowed for rapid response and problem-solving.
-- Gained hands-on experience in incident response, network security, system hardening, and cyber threat intelligence.
+- [Competition 1](https://github.com/[YourUsername]/[YourRepository]#competition-1): Brief description of Competition 1.
+- [Competition 2](https://github.com/[YourUsername]/[YourRepository]#competition-2): Brief description of Competition 2.
+- [Competition 3](https://github.com/[YourUsername]/[YourRepository]#competition-3): Brief description of Competition 3.
 
-![Project 1 Screenshot](https://ncaecybergames.org/_app/immutable/assets/ncae_cybergames_logo.6bd1b659.png)
-
-This intense and rewarding experience has not only honed our technical skills but also taught us the value of teamwork, leadership, and strategic thinking in the field of cybersecurity.
-# Custom Made Resources
-
+For more information about my work, feel free to explore my [other repository](https://github.com/[YourUsername]/[YourRepository]).
 
