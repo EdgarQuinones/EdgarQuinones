@@ -1,8 +1,8 @@
 # Edgar Quinones's Projects 
 Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity as that is what I enjoy doing most. Below you will see the various projects, competitions, and resources I have contributed to. For more information, contact me on my [LinkedIn!](https://www.linkedin.com/in/edgar-quinones/)
-## Projects
+# Projects
 
-## Competitions 
+# Competitions 
 ## NCAE Cyber Games, Spring 2024 - Team Captain
 
 ### Overview
@@ -27,6 +27,6 @@ As the Team Captain of an 8-member squad at the University of North Florida, I l
 ![Project 1 Screenshot](https://ncaecybergames.org/_app/immutable/assets/ncae_cybergames_logo.6bd1b659.png)
 
 This intense and rewarding experience has not only honed our technical skills but also taught us the value of teamwork, leadership, and strategic thinking in the field of cybersecurity.
-## Custom Made Resources
+# Custom Made Resources
 
 
