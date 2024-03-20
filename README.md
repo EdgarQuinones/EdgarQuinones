@@ -1,7 +1,6 @@
 # Edgar Quinones's Projects 
 Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity as that is what I enjoy doing most. Below you will see the various projects and competitions I have created and participated in.
 ### Projects
-- [Virtual Homelab](https://github.com/EdgarQuinones/Virtual-HomeLab): Virtual Homelab I am constantly working on and improving.
 - [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website using bash.
 - [Customizable Music Playlist](https://github.com/EdgarQuinones/CSC249): A Java program that lets youmanage a music playlist, add and remove songs.
 - [Hangman](https://github.com/EdgarQuinones/Hangman): Hangman coded in Java with multiple difficulties.
