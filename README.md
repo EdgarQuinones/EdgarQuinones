@@ -1,25 +1,50 @@
-# Hello, I'm Edgar Quinones
-<a href="https://www.linkedin.com/in/edgar-quinones/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Edgar Quinones's GitHub Portfolio
 
-Hi there! I'm a passionate and curious IT student currently in my junior year, working towards my Bachelor's degree. I have a strong interest in cybersecurity, where I love to explore and tackle new challenges. Through my projects, you'll see my journey of learning and applying various cybersecurity concepts and techniques. I'm always on the lookout for new learning opportunities and collaborations to broaden my skills and make the digital world a safer place. Welcome to my GitHub, where I share my adventures in cybersecurity! I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub portfolio! Here, you'll find a selection of projects that I've worked on, showcasing my skills in [programming languages you use], [technologies], and [any other relevant fields]. Each project represents a piece of my journey in software development, from individual experiments to collaborative efforts.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Incident Response and Threat Analysis         | <a href="https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition">NCAE Red vs Blue Competition</a>|
+## Featured Projects
 
-## Tools
+### [Project Name 1]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Example1-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+[Short description of Project 1]
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Example2-8A2BE2?style=for-the-badge&logoColor=white" />
-</div>
+- **Technologies Used:** [e.g., Python, React]
+- **Key Features:** 
+  - Feature 1
+  - Feature 2
+- **[Link to project](GitHub project URL)**
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Example3-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+![Project 1 Screenshot](URL to a screenshot of the project, if available)
+
+### [Project Name 2]
+
+[Short description of Project 2]
+
+- **Technologies Used:** [e.g., Java, Spring Boot]
+- **Key Features:** 
+  - Feature 1
+  - Feature 2
+- **[Link to project](GitHub project URL)**
+
+![Project 2 Screenshot](URL to a screenshot of the project, if available)
+
+### [Project Name 3]
+
+[Short description of Project 3]
+
+- **Technologies Used:** [e.g., JavaScript, Node.js]
+- **Key Features:** 
+  - Feature 1
+  - Feature 2
+- **[Link to project](GitHub project URL)**
+
+![Project 3 Screenshot](URL to a screenshot of the project, if available)
+
+## About Me
+
+I'm [Your Name], a [Your Job Title/Position, e.g., software developer, data scientist] with a passion for [mention your passion, e.g., building scalable web applications, machine learning]. With [X years] of experience in [Industry/Field], I've developed a strong skill set in [mention key skills], which I continuously expand by working on diverse projects and learning new technologies.
+
+- **LinkedIn:** [Your LinkedIn profile URL]
+- **Email:** [Your email address]
+
+Thank you for visiting my portfolio! Feel free to reach out to me for collaboration or any questions about my projects.
