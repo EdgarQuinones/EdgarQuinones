@@ -37,6 +37,6 @@ As the Team Captain of an 8-member squad at the University of North Florida, I l
 - Fostered a collaborative and efficient team environment that allowed for rapid response and problem-solving.
 - Gained hands-on experience in incident response, network security, system hardening, and cyber threat intelligence.
 
-![NCAE Cyber Games Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
+![Project 1 Screenshot](https://ncaecybergames.org/_app/immutable/assets/ncae_cybergames_logo.6bd1b659.png)
 
 This intense and rewarding experience has not only honed our technical skills but also taught us the value of teamwork, leadership, and strategic thinking in the field of cybersecurity.
