@@ -1,6 +1,5 @@
 # Edgar Quinones's Projects 
 Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity as that is what I enjoy doing most. Below you will see the various projects and competitions I have created and participated in.
-## My Projects and Competitions
 ### Projects
 - [Virtual Homelab](https://github.com/EdgarQuinones/Virtual-HomeLab): Virtual Homelab I am constantly working on and improving.
 - [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website.
