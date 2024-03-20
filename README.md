@@ -5,7 +5,6 @@ Hi there! I'm a passionate and curious IT student currently in my junior year, w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Configuration and Management          | <a href="https://github.com/EdgarQuinones/MyHomeLabJourney">Home Lab</a>|
 | Incident Response and Threat Analysis         | <a href="https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition">NCAE Red vs Blue Competition</a>|
 
 ## Tools
