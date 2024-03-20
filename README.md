@@ -19,7 +19,7 @@ Hi there! I'm a passionate and curious IT student currently in my junior year, w
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/nmap-Used-blue?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-8A2BE2?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
