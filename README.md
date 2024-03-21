@@ -3,6 +3,7 @@ Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My 
 ### Projects
 - [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website using bash.
 - [Customizable Music Playlist](https://github.com/EdgarQuinones/CSC249): A Java program that lets you manage a music playlist, add and remove songs.
+- [Virtual Homelab](https://github.com/EdgarQuinones/Virtual-HomeLab): Virtual Homelab I am working by hosting multiple VMs on my desktop.
 - [Hangman](https://github.com/EdgarQuinones/Hangman): Hangman coded in Java with multiple difficulties.
 - [PolicyStatsCollector](https://github.com/EdgarQuinones/PolicyStatsCollector): Program that calculates certain stats of a policies in Java.
 ### Competitions
