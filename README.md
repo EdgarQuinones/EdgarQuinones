@@ -1,5 +1,5 @@
 # Edgar Quinones's Github 
-Hello! I am currently a Jr pursuing my bachelor's in Information Technology. My goal is to get a job in cybersecurity and learn all there is to know in Information Technology. Below you will see the various projects and competitions I have created and participated in.
+Hello! I am currently a Jr pursuing my bachelor's in Information Technology at the University of North Florida. My goal is to get a job in cybersecurity and learn all there is to know in Information Technology. Below you will see the various projects and competitions I have created and participated in.
 ### Projects 
 - [Virtual Homelab](https://github.com/EdgarQuinones/Virtual-HomeLab): Virtual Homelab I am working by hosting multiple VMs on my desktop.
 - [InfoSec Resources](https://github.com/EdgarQuinones/CyberSecurity-Resources): A comprehensive list that contains a variety of resources I have contributed to in multiple areas of Cyber Security.
