@@ -8,4 +8,4 @@ Hello! I am currently a Jr pursuing my bachelor's in Information Technology at t
 - [NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md): Captain of 7 for a Red vs Blue Cyber Security Competition.
 - [NCL CTF Competition](https://github.com/EdgarQuinones/NCL-CaptureTheFlag-Competition): Captain of 5 for a CTF Cyber Security Competition.
 ### Experience
-- [OSEC](https://github.com/EdgarQuinones/Cybersecurity-Club-Projects-and-Achievements): University of North Florida's Osprey Security Club
+- [OSEC](https://github.com/EdgarQuinones/Cybersecurity-Club-Projects-and-Achievements): University of North Florida's Osprey Security Club Team Captain
