@@ -6,7 +6,7 @@ Hello! I am a junior pursuing my bachelor's in Computer at the University of Nor
 - [100 Days of Code: Python](https://github.com/EdgarQuinones/100-Days-of-Python): 100 days, 100 projects in Python, along with notes from each day (In-Progress)
 - [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website using bash
 ### Competitions
-- [NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md): Captain of 7 for a Red vs Blue Cyber Security Competition
+- [NCAE Cyber Games - 2nd Place](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md): Captain of 7 for a Red vs Blue Cyber Security Competition
 - [NCL CTF Competition](https://github.com/EdgarQuinones/NCL-CaptureTheFlag-Competition): Captain of 5 for a CTF Competition
 ### Experience
 - [OSEC](https://github.com/EdgarQuinones/Cybersecurity-Club-Projects-and-Achievements): University of North Florida's Osprey Security Club: Team Captain
