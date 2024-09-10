@@ -1,5 +1,5 @@
 # Edgar Quinones's Github 
-Hello! I am a junior pursuing my bachelor's in Computer at the University of North Florida. My goal is to get a job in tech and learn all there is to know in Computer Science. I've shared below the various projects and competitions I have created and participated in.
+Hello! I am a junior pursuing my bachelor's in Computer Science at the University of North Florida. My goal is to get a job in tech and learn all there is to know in Computer Science. I've shared below the various projects and competitions I have created and participated in.
 ### Projects 
 - [100 Days of Code: Python](https://github.com/EdgarQuinones/100-Days-of-Python): 100 days, 100 projects in Python (In-Progress)
 - [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website using bash
