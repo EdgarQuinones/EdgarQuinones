@@ -1,13 +1,15 @@
 # Edgar Quinones' Github 
-Hello! I am a junior pursuing my bachelor's in Computer Science at the University of North Florida. My goal is to get a job in tech and learn all there is to know in Computer Science. I've shared below the various projects and competitions I have created and participated in.
-### Projects 
-- [100 Days of Code: Python](https://github.com/EdgarQuinones/100-Days-of-Python): 100 days, 100 projects in Python (In-Progress)
-- [OverTheWire Launcher](https://github.com/EdgarQuinones/OverTheWire-Launcher): A command-line only launcher I made for a CTF website using bash
-- [Virtual Homelab](https://github.com/EdgarQuinones/Virtual-HomeLab): Virtual Homelab I am working by hosting multiple VMs on my desktop
-### Competitions
-- [NCAE Cyber Games - 2nd Place](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md): Captain of 7 for a Red vs Blue Cyber Security Competition
-- [NCL CTF Competition](https://github.com/EdgarQuinones/NCL-CaptureTheFlag-Competition): Captain of 5 for a CTF Competition
-### Experience
-- [OSEC](https://github.com/EdgarQuinones/Cybersecurity-Club-Projects-and-Achievements): University of North Florida's Osprey Security Club: Team Captain
-- [InfoSec Resources](https://github.com/EdgarQuinones/CyberSecurity-Resources): A comprehensive list that contains various resources I have contributed to in multiple areas of IT
+> I’m a junior Computer Science student at the University of North Florida, with a strong focus on cybersecurity, software development, and hands-on IT projects. I’m driven by a commitment to continually expand my skills through projects, competitions, and community engagement.
 
+> **Projects**
+> - **Python Projects (100 Days of Code)** – Currently completing 100 Python projects to deepen my coding proficiency and problem-solving skills.
+> - **OverTheWire Launcher** – Developed a command-line launcher in Bash for streamlined access to OverTheWire’s CTF challenges.
+> - **Malware Analysis** – Conducted in-depth research on malware behavior and analysis techniques to strengthen my cybersecurity knowledge.
+
+> **Competitions**
+> - **National Cyber League (NCL)** – Competed in individual and team CTF events, solving challenges in network traffic analysis, cryptography, and exploitation.
+> - **National Centers of Academic Excellence (NCAE) Cyber Games** – Led a team of 7 as captain in a Red vs. Blue cybersecurity competition, achieving 2nd place.
+> - **Collegiate Penetration Testing Competition (CPTC)** – Participated in a real-world penetration testing simulation, focusing on vulnerability assessment and reporting.
+> - **Hivestorm** – Engaged in a cloud-based cybersecurity defense competition, developing skills in real-time threat detection and incident response.
+
+> I’m always open to connecting with fellow tech enthusiasts and exploring new opportunities in the field.
