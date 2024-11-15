@@ -10,5 +10,3 @@ Hello! I am a junior pursuing my bachelor's in Computer Science at the Universit
 ### Experience
 - [OSEC](https://github.com/EdgarQuinones/Cybersecurity-Club-Projects-and-Achievements): University of North Florida's Osprey Security Club: Team Captain
 - [InfoSec Resources](https://github.com/EdgarQuinones/CyberSecurity-Resources): A comprehensive list that contains various resources I have contributed to in multiple areas of IT
-
-testing
